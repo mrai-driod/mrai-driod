@@ -99,6 +99,8 @@ A WhatsApp bot where all responses render as rich HTML cards inside WhatsApp its
 
 - 💬 Telegram: [@MR_AI_V5_BOT](https://t.me/MR_AI_V5_BOT)
 - 📦 Mrai Termux APK: [download](https://mrai-agent-784d9135.base44.app/functions/mraiApk)
+- 👥 Mrai Clan Termux group: [join on WhatsApp](https://chat.whatsapp.com/IgHcxLekKFkEiuheTPeJiS?s=cl&p=a&mlu=4&ilr=4)
+- 📢 WhatsApp channel: [follow](https://whatsapp.com/channel/0029VbDETPe2kNFsCMkNPA0y)
 
 ---
 
