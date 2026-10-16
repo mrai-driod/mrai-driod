@@ -42,9 +42,24 @@ $ ./run.sh --mode full-force
 ### Mrai Termux
 _Termux with a brain. Same Linux power (apt, bash, Python, git) — none of the suffering._
 
-An AI Console that thinks with you — command suggestions as you type, broken commands fixed and explained. A full tool-calling AI Assistant tab inside the app that works with any provider + your key, browses and edits your files, and runs things for you. Built-in editor with live HTML preview, one-tap tools, a real file manager for your phone's storage, Pro and Guided modes, an automation scheduler, and self-updating builds. Normal Termux: abandoned store builds, no AI, no preview, no file access — and you're alone when it breaks. Install once, every update after arrives automatically in-app.
+An AI Console that thinks with you — command suggestions as you type, broken commands fixed and explained. A full tool-calling AI Assistant tab inside the app that browses and edits your files and runs things for you — with **built-in AI out of the box: no token, no API key, no credits needed**. Prefer your own provider? Plug in any key and it works with that too. Built-in editor with live HTML preview, one-tap tools, a real file manager for your phone's storage, Pro and Guided modes, an automation scheduler, and self-updating builds. Normal Termux: abandoned store builds, no AI, no preview, no file access — and you're alone when it breaks. Install once, every update after arrives automatically in-app.
 
 📦 [Install](https://mrai-agent-784d9135.base44.app/functions/mraiApk)
+
+📸 *In action:*
+
+<table>
+<tr>
+<td><img src="termux-1.png" width="250"></td>
+<td><img src="termux-2.png" width="250"></td>
+<td><img src="termux-3.png" width="250"></td>
+</tr>
+<tr>
+<td><img src="termux-4.png" width="250"></td>
+<td><img src="termux-5.png" width="250"></td>
+<td><img src="termux-6.png" width="250"></td>
+</tr>
+</table>
 
 ### Mrai Buddy
 _AI phone assistant with keyless Mrai AI._
@@ -56,6 +71,8 @@ _A living Telegram RPG world at the start of Shippuden._
 
 290+ commands over a world where NPCs remember you, villages live and collapse, families grow, and powers carry real consequences. Every life is a life — memory, relationships, needs, arcs, endings.
 
+🤖 [Open the bot](https://t.me/mr_ai_v4_bot)
+
 ### mrai-browser
 _Real Chromium inside Termux._
 
@@ -65,6 +82,8 @@ A zero-git single-file installer: headless Chromium driven over CDP, screenshots
 _Every reply is a UI._
 
 A WhatsApp bot where all responses render as rich HTML cards inside WhatsApp itself — games, menus, ping cards, leaderboards. No plain text left.
+
+🤖 [Open the bot](https://t.me/mr_ai_v5_bot)
 
 ---
 
