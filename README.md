@@ -1,4 +1,4 @@
-![MRAI — there's only one](assets/banner.webp)
+![MRAI — there's only one](Mrai%20profile%20banner.webp)
 
 <div align="center">
 
@@ -39,13 +39,32 @@ $ ./run.sh --mode full-force
 
 ## 🚀 Flagship builds
 
-| Build | What it is |
-|---|---|
-| **Mrai Termux** | My own forked Termux — built-in AI with an almost-unlimited free fallback chain |
-| **Mrai Buddy** | Android AI app fork — keyless Mrai AI, custom backends, plain mode |
-| **Naruto: New Era** | Living Telegram RPG world — 290+ commands, lives that remember |
-| **mrai-browser** | Real Chromium inside Termux — zero-git installer, CDP control |
-| **WhatsApp Matrix** | Rich HTML card responses — every reply is a UI |
+### Mrai Termux
+_Termux with a brain. Same Linux power (apt, bash, Python, git) — none of the suffering._
+
+An AI Console that thinks with you — command suggestions as you type, broken commands fixed and explained. A full tool-calling AI Assistant tab inside the app that works with any provider + your key, browses and edits your files, and runs things for you. Built-in editor with live HTML preview, one-tap tools, a real file manager for your phone's storage, Pro and Guided modes, an automation scheduler, and self-updating builds. Normal Termux: abandoned store builds, no AI, no preview, no file access — and you're alone when it breaks. Install once, every update after arrives automatically in-app.
+
+📦 [Install](https://mrai-agent-784d9135.base44.app/functions/mraiApk)
+
+### Mrai Buddy
+_AI phone assistant with keyless Mrai AI._
+
+A fail-silent fallback chain across free AI providers so it never stops on the user end, custom OpenAI-compatible backend config for any provider and key, and an agentic loop that can drive the phone from a single prompt. Plain mode: your rules, not a nanny.
+
+### Naruto: New Era
+_A living Telegram RPG world at the start of Shippuden._
+
+290+ commands over a world where NPCs remember you, villages live and collapse, families grow, and powers carry real consequences. Every life is a life — memory, relationships, needs, arcs, endings.
+
+### mrai-browser
+_Real Chromium inside Termux._
+
+A zero-git single-file installer: headless Chromium driven over CDP, screenshots / PDF / DOM extraction straight from the CLI, and a full GUI mode through Termux-X11.
+
+### WhatsApp Matrix
+_Every reply is a UI._
+
+A WhatsApp bot where all responses render as rich HTML cards inside WhatsApp itself — games, menus, ping cards, leaderboards. No plain text left.
 
 ---
 
@@ -53,16 +72,14 @@ $ ./run.sh --mode full-force
 
 - 🌍 Running the **Naruto: New Era** world live
 - 📱 Shipping **Mrai Buddy** builds
-- 🖥️ Teaching Termux, one tool at a time
+- 🖥️ Teaching my clan Termux, one tool at a time
 
 ---
 
 ## 📡 Connect
 
-- 💬 Telegram: [@mrai_dev](https://t.me/mrai_dev)
+- 💬 Telegram: [@MR_AI_V5_BOT](https://t.me/MR_AI_V5_BOT)
 - 📦 Mrai Termux APK: [download](https://mrai-agent-784d9135.base44.app/functions/mraiApk)
-- WhatsApp group: [Join](https://chat.whatsapp.com/IgHcxLekKFkEiuheTPeJiS?s=cl&p=a&mlu=4&ilr=4)
-- Mrai Channel: [Follow](https://whatsapp.com/channel/0029VbDETPe2kNFsCMkNPA0y)
 
 ---
 
