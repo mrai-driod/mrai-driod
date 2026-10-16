@@ -53,14 +53,16 @@ $ ./run.sh --mode full-force
 
 - 🌍 Running the **Naruto: New Era** world live
 - 📱 Shipping **Mrai Buddy** builds
-- 🖥️ Teaching my clan Termux, one tool at a time
+- 🖥️ Teaching Termux, one tool at a time
 
 ---
 
 ## 📡 Connect
 
-- 💬 Telegram: [@MR_AI_V5_BOT](https://t.me/MR_AI_V5_BOT)
+- 💬 Telegram: [@mrai_dev](https://t.me/mrai_dev)
 - 📦 Mrai Termux APK: [download](https://mrai-agent-784d9135.base44.app/functions/mraiApk)
+- WhatsApp group: [Join](https://chat.whatsapp.com/IgHcxLekKFkEiuheTPeJiS?s=cl&p=a&mlu=4&ilr=4)
+- Mrai Channel: [Follow](https://whatsapp.com/channel/0029VbDETPe2kNFsCMkNPA0y)
 
 ---
 
